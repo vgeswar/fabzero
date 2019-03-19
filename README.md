@@ -1,13 +1,13 @@
 ## Day-1 Summary (Date: 18.03.2019)- 6.00PM
+Inaugural Session
 We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus.   
 ![Launching-of-Training](launch.jpeg)   
 
-Director STPI-Bhubaneswar briefed us on how the idea of having PreFab lab at Bhuvaneshwar started. Also he requested everyone to take it forward to every center across the country to set up similar lab in their centers by taking support from the respective State Government.The mentors Mr.Francisco and Mr.Sibu gave a brief speech on the sessions
-Finally, Director General STPI congratulated the Director for launching the Fablab and  requested everyone to work hard.
+STPI- Bhubaneswar Mr.Manas Panda welcomed DG, other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar started.The training program (Fabzero) was launched by STPI-Director General. 
+The mentors Mr.Francisco and Mr.Sibu gave a brief speech on the sessions and brief introduction on the lab and the purpose of the lab was discussed.
 
-The session started at 11.30AM. Brief introduction on the lab and the purpose of the lab was discussed.
-
-After the lunch break we went to the Fablab. 
+**Fablab visit**
+Visited the Fablab and mentor Mr.Sibu introduced the equipments in the Fablab.
 
 ![LAB](Fablab.jpg)
 
@@ -15,7 +15,7 @@ After the lunch break we went to the Fablab.
 
 ![Shopbot-Machine](shopbot.jpg)
 
-First we had a brief demo on shopbot(subtractive) Machine. It is a Computer Numerical Control(CNC) milling tool. It is 3axis cutter and used for working with 2D & 3D cutting tool. The resolution is not 10th of a millimeter. safety is very important when using this machine. During emergency, hit the stop button.Always it is recommended to have one more person while working with this machine.
+First we had a brief demo on shopbot(subtractive model) Machine. It is a Computer Numerical Control(CNC) milling tool. It is 3axis cutter and used for wooden materials and aluminium .Safety is very important when using this machine. During emergency, hit the stop button.Always it is recommended to have one more person while working with this machine.
 
 This machine will work smoothly for more than ten years. If power goes off then it is almost like loss of work for beginners. Next, we had a demo on W-band-saw tool. It is works like a hacksaw blade cutter. It is not a flexible cutter which means difficult to cut curved patterns. The next tool is scroll saw.It is works like a hacksaw blade cutter but more flexible.
 
@@ -42,12 +42,12 @@ lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. In this 
 
 ![3D Printer](3Dprinter.jpeg) 
 
-3D printers(Additive). Which is a single material printer. i.e fused filament deposit, uv curable which is a stereo lithography polymerization. Injective 3D printer-STRATASOS which can support two materials.
+3D printers(Additive). Which is a single material printer. i.e fused filament deposit, UV curable which is a stereo lithography polymerization. Injective 3D printer-STRATASOS which can support two materials.
 
 Then back to session where we learnt about documentation and created a new account and started creative new repository
 
 ## Day-2 Summary (Date:19.03.2019) 11.30AM
-We started the class at 10.00AM.     
+     
 Installed the softwares spell checker, inkscope and cura   
  **Spell Checker** - Used to spell check in visual code   
  **inkscope** - Inkscape is professional quality vector graphics software   
