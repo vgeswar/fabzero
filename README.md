@@ -53,4 +53,6 @@ Installed the softwares spell checker, inkscope and cura
  **inkscope** - Inkscape is professional quality vector graphics software   
  **Cura** - Advanced 3D Printing Software   
 
+ Mentor Mr.Franscisco, explained how the files and photos are uploaded in to the fazero login.
+
 
