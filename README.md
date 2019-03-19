@@ -13,7 +13,7 @@ After the lunch break we went to the Fablab.
 
 **Shopbot Machine**
 
-![Shopbot-Machine](shopbpt.jpg)
+![Shopbot-Machine](shopbot.jpg)
 
 First we had a brief demo on shopbot(subtractive) Machine. It is a Computer Numerical Control(CNC) milling tool. It is 3axis cutter and used for working with 2D & 3D cutting tool. The resolution is not 10th of a millimeter. safety is very important when using this machine. During emergency, hit the stop button.Always it is recommended to have one more person while working with this machine.
 
