@@ -14,11 +14,11 @@ This machine will work smoothly for more than ten years. If power goes off then 
 **Cleaning Tool** cleaning tool which cleans support stressor(clay). Next we had a demo on SRM-20 tool which is a micro milling machine whose resolution is 100th inches. The commonly used diameter is 0.4mm, 0.8mm up to 6mm. Fiber class is not to be used.
 
 We had a quick look at oscilloscope, power supply, functional generate, epilog laser.   
-**vinyl cutter**-![Vinylcutter](vinyl-cutter.jpeg)
+**vinyl cutter**-   ![Vinylcutter](vinyl-cutter.jpeg)
  It acts like plotter, draw images and act like stencil and screen printer.
-**Laser Cutter** lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. In this machine we can't to use metal. Because it produce the smoke.
-
- We had a brief look at Air filter which sucks dust particles but gases will remain. Don't open immediately after using lDay2aser cutter. Don't cut anything very thin like paper and glass cutting is not permitted but engraving is permitted.  Next we had 3D printers(Additive). Which is a single material printer. i.e fused filament deposit, uv curable which is a stereo lithography polymerization. Injective 3D printer-STRATASOS which can support two materials.Then back to session where we learnt about documentation and created a new account and started creative new repository
+**Laser Cutter** lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. In this machine we can't to use metal. Because it produce the smoke. We had a brief look at Air filter which sucks dust particles but gases will remain. Don't open immediately after using laser cutter. Don't cut anything very thin like paper and glass cutting is not permitted but engraving is permitted.
+**3D Printer** 3D printers(Additive). Which is a single material printer. i.e fused filament deposit, uv curable which is a stereo lithography polymerization. Injective 3D printer-STRATASOS which can support two materials.
+Then back to session where we learnt about documentation and created a new account and started creative new repository
 ## Day-2 Summary (Date:19.03.2019) 11.30AM
 We started the class at 10.00AM.     
 Installed the softwares spell checker, inkscope and cura   
