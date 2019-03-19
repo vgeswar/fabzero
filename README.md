@@ -17,7 +17,7 @@ We had a quick look at oscilloscop, power supply, functional generate, epilog la
 
  We had a prief look at Air filtter whci sucks dust particles but gases will remain. Don't open immediately after using laser cutter. Don't cut anything very thin like paper and glass cutting is not permitter but engraving is permitter  Next we had 3D printers(Additive). Which is a single material printer. i.e fused filament deposit, uv curable which is a streo lethographty polimerisation. Injective 3D printer-STRATASOS which can subbort two materials. special nocile full colour additional future. Then back to session where we learnt about documantation and created a new account and started creative new repository
 ## Day-2 Summary (Date:19.03.2019) 11.30AM
-We started the class at 10.00AM
+We started the class at 10.00AM.     
 Installed the softwares spell checker, inkscope and cura
  **Spell Checker** - Used to spell check in visual code
  **inkscope** - Inkscape is professional quality vector graphics software
