@@ -19,3 +19,7 @@ We had a quick look at oscilloscop, power supply, functional generate, epilog la
 ## Day-2 Summary (Date:19.03.2019) 11.30AM
 We started the class at 10.00AM
 Installed the softwares spell checker, inkscope and cura
+ **Spell Checker** - Used to spell check in visual code
+ **inkscope** - Inkscape is professional quality vector graphics software
+ **Cura** - Advanced 3D Printing Software
+ 
