@@ -11,8 +11,10 @@ First we had a brief demo on shopbot(subractive) Machine. It is a Computer Numer
 
 This machine will work smoothly for more than ten years. If power goes off then it is almost like loss of work for beginners. Next, we had a demo on W-band-saw tool. It is works like a hacksaw blade cutter. It is not a fliexible cutter which means difficult to cut curved patterns. The nest tools is scrollsaw.It is works like a hacksaw blade cutter. but more fliexible.
 
- Next tool is cleaning tool which cleans support stressor(clay). Next we had a demo on SRM-20 tool which is a micro milling machine whose resoulation is 100th inches. The commonely used diameter is 0.4mm, 0.8mm upto 6mm. Fiber class is not to be used.
+ Next tool is cleaning tool which cleans support stressor(clay). Next we had a demo on SRM-20 tool which is a micro milling machine whose resoulation is 100th inches. The commanly used diameter is 0.4mm, 0.8mm upto 6mm. Fiber class is not to be used.
 
-We had a quick look at oscilloscop, power supply, functional generato, epilog laser. We had a vinyle cutter(Sticker cutter). maximum 80grams equivalent force can be applied. It acts like plotter, draw images and act like stencil and screen printer. Then we had look at copper roll, lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. Here we cann't to use metal. Becose it produce the smoke.
+We had a quick look at oscilloscop, power supply, functional generate, epilog laser. We had a vinyle cutter(Sticker cutter). maximum 80grams equivalent force can be applied. It acts like plotter, draw images and act like stencil and screen printer. Then we had look at copper roll, lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. Here we cann't to use metal. Becouse it produce the smoke.
 
  We had a prief look at Air filtter whci sucks dust particles but gases will remain. Don't open immediately after using laser cutter. Don't cut anything very thin like paper and glass cutting is not permitter but engraving is permitter  Next we had 3D printers(Additive). Which is a single material printer. i.e fused filament deposit, uv curable which is a streo lethographty polimerisation. Injective 3D printer-STRATASOS which can subbort two materials. special nocile full colour additional future. Then back to session where we learnt about documantation and created a new account and started creative new repository
+## Day-2 Summary (Date:19.03.2019) 11.30AM
+We started the class at 10.00AM
