@@ -21,5 +21,5 @@ We started the class at 10.00AM.
 Installed the softwares spell checker, inkscope and cura   
  **Spell Checker** - Used to spell check in visual code   
  **inkscope** - Inkscape is professional quality vector graphics software   
- **Cura** - Advanced 3D Printing Software
+ **Cura** - Advanced 3D Printing Software 
  
