@@ -2,9 +2,7 @@
 We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus.   
 ![Launching-of-Training](launch.jpeg)   
 
-All the participants introduced themselves to others. The mentors Mr.Sanfrancisco and Mr.Sibu gave a brief speech on the sessions
-Director STPI-Bhubaneswar briefed us on how the idea of having PreFab lab at Bhuvaneshwar started.Then, he requested every participant to understand and work hard to become future mentor. Also he requested everyone to take it forward to every center across the country to set up similar lab in their centers by taking support from the respective State Government.
-
+Director STPI-Bhubaneswar briefed us on how the idea of having PreFab lab at Bhuvaneshwar started. Also he requested everyone to take it forward to every center across the country to set up similar lab in their centers by taking support from the respective State Government.The mentors Mr.Francisco and Mr.Sibu gave a brief speech on the sessions
 Finally, Director General STPI congratulated the Director for launching the Fablab and  requested everyone to work hard.
 
 The session started at 11.30AM. Brief introduction on the lab and the purpose of the lab was discussed.Then after the lunch break we went to the Fablab. 
