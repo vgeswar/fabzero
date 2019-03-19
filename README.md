@@ -5,7 +5,11 @@ We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus.
 Director STPI-Bhubaneswar briefed us on how the idea of having PreFab lab at Bhuvaneshwar started. Also he requested everyone to take it forward to every center across the country to set up similar lab in their centers by taking support from the respective State Government.The mentors Mr.Francisco and Mr.Sibu gave a brief speech on the sessions
 Finally, Director General STPI congratulated the Director for launching the Fablab and  requested everyone to work hard.
 
-The session started at 11.30AM. Brief introduction on the lab and the purpose of the lab was discussed.Then after the lunch break we went to the Fablab. 
+The session started at 11.30AM. Brief introduction on the lab and the purpose of the lab was discussed.
+
+After the lunch break we went to the Fablab. 
+
+![LAB](Fablab.jpg)
 
 First we had a brief demo on shopbot(subtractive) Machine. It is a Computer Numerical Control(CNC) milling tool. It is 3axis cutter and used for working with 2D & 3D cutting tool. The resolution is not 10th of a millimeter. safety is very important when using this machine. During emergency, hit the stop button.Always it is recommended to have one more person while working with this machine.
 
