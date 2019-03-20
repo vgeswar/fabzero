@@ -53,6 +53,15 @@ Installed the softwares spell checker, inkscope and cura
  **inkscope** - Inkscape is professional quality vector graphics software   
  **Cura** - Advanced 3D Printing Software   
 
- Mentor Mr.Franscisco, explained how the files and photos are uploaded in to the fazero login.
+Mentor Mr.Franscisco, explained how the files and photos are uploaded in to the fazero login.i.e. portal. The text file in the Visual Studio Code should be commit with the message.Every time this process is required when the changes are made in the text file.
+
+Downloaded and installed the Git for Windows OS for using git:clone command in Visual Studio Code.After installed, open the Visual Studio Code and type Ctrl+Shift+P and enter git:clone and paste the repository link which is obtained from the portal and folder to be select for repository clone.
+
+Now, we can upload the README.md(text file) from Visual Studio Code. i.e open the txt file through Visual Studio and modify as it required and commit the changes and hit the push command, Now the modified file is uploaded in to the portal.
+
+ 
+
+
+
 
 
