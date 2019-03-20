@@ -2,10 +2,7 @@
 
 ## [Inaugural Session](/md-files/inauguration.md)
 
-**Fablab visit**  
-Visited the Fablab and mentor Mr.Sibu introduced the equipments in the Fablab.
-
-![LAB](Fablab.jpg)
+##[Fablab Tour](/md-files/fablabvisit.md)
 
 **Shopbot Machine**
 
