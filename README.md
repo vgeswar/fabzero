@@ -1,8 +1,8 @@
 ## Day-1 Summary (Date: 18.03.2019)- 6.00PM
 
-## [Inaugural Session](/md-files/inauguration.md)
+## [Inaugural Session](/md-files/Inauguration.md)
 
-##[Fablab Tour](/md-files/fablabvisit.md)
+## [Fablab Tour](/md-files/fablabvisit.md)
 
 **Shopbot Machine**
 
