@@ -1,6 +1,6 @@
 ## Day-1 Summary (Date: 18.03.2019)- 6.00PM
 
-## [Inaugural Session](Inauguration.md)
+## [Inaugural Session](inauguration.md)
 
 **Fablab visit**  
 Visited the Fablab and mentor Mr.Sibu introduced the equipments in the Fablab.
