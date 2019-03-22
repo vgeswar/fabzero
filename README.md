@@ -8,13 +8,10 @@
  *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus. [*more...*](/md-files/Inauguration.md)*
 
  ***FABLAB Tour***   
- A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*more...*](/md-files/fablabvisit.md)
+ *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*more...*](/md-files/fablabvisit.md)*
 
  ***vinyl cutter***     
- *This LAB equipped with "Roland CAMM-1 GS-24 vinyl cutter. The maximum area
-
-![Vinylcutter](vinyl-cutter.jpeg)      
- It acts like plotter, draw images and act like stencil and screen printer. 
+ *This LAB equipped with "Roland CAMM-1 GS-24 vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*more...*](/md-files/vinyl-cutter.md)*
 
 **Shopbot Machine**
 
