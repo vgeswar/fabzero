@@ -5,7 +5,7 @@
 *A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes  [*more...*](/md-files/Introduction.md)*
 
  ***Inaugural Session***  
- *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus.[*more...](/md-files/Inauguration.md)*
+ *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus. [*more...*](/md-files/Inauguration.md)*
 
  [*Fablab Tour*](/md-files/fablabvisit.md)
 
