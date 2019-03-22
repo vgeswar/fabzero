@@ -1,7 +1,10 @@
 My Three weeks at Pre-fab Academy Training at STPI-Bhubaneswar Campus.
 We are trained by two legends Sh.Fransisco and Sh.Sibu
 
-## Day-1 Summary (Date: 18.03.2019)- 6.00PM
+**About**
+This Program can foster a vibrant ecosystem for building a maker culture among startups, young entrepreneurs & enterprises for transforming ideas into superior products.
+
+## Day-1 
 
 ## [Inaugural Session](/md-files/Inauguration.md)
 
