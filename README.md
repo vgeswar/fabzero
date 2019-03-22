@@ -2,7 +2,7 @@
 *We are trained by two legends Sh.Fransisco & Sh.Sibu*
              
 ***Introduction***     
-*A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes  [*more...*](/md-files/Introduction.md)
+*A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes  [*more...*](/md-files/Introduction.md)*
 
  [*Inaugural Session*](/md-files/Inauguration.md)
 
