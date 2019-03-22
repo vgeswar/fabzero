@@ -7,7 +7,7 @@ Visited the Fablab and mentor Mr.Sibu introduced the equipments in the Fablab.
 
 In this LAB equipped with following equipments
 *Shopbot*
-*W-Band and DeWalt Saw Tool & Cleanning Tool*
+*W-Band and DeWalt Saw Tool & Cleaning Tool*
 *Sindoh 3D Printer*
 *Epilog Laser Printer*
 *Oscilloscope, Power Supply and Function Generator*
