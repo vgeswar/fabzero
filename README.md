@@ -1,3 +1,5 @@
+My Three weeks atPre-fab Academy Training at STPI-Bhubaneswar Campus.
+
 ## Day-1 Summary (Date: 18.03.2019)- 6.00PM
 
 ## [Inaugural Session](/md-files/Inauguration.md)
