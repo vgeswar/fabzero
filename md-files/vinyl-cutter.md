@@ -3,8 +3,8 @@
 ![Vinylcutter](/img/vinylcutter.jpg)
 
 ***Software and Installation***  
-*we are advised by Sh.Fransisco to install the inkscape software (2D ) to be used for vinyl cutter in order to make a nice stickers  and images.*   
-*After place the sticker roll, put the roller under the white lines on the machine.*  
+*we are advised by Sh.Fransisco to install the inkscape software (2D ) to be used for vinyl cutter in order to make a nice stickers  and images.Hence, the inkspace software was installed.*  
+*After place the sticker roll in to the vinyl cutter, put the roller under the white lines on the machine.*  
 *The origin point should be set in lower left side is used to utilize the maximum area of the sticker roll and the origin should be reset when make the new one.*
 
 
