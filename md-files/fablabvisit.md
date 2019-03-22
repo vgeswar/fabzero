@@ -1,12 +1,12 @@
 ***Fablab visit***  
 
-Visited the Fablab and mentor Sh.Sibu explained the equipped equipments in the Fablab.
+*Visited the Fablab and mentor Sh.Sibu explained the equipped equipments in the Fablab.*
 
 ![LAB](/img/Tour1.jpg)
 ![LAB](/img/Tour2.jpg)
 ![LAB](/img/Tour3.jpg)
 
-In this LAB equipped with following equipments:   
+*In this LAB equipped with following equipments:*   
 *Shopbot*   
 *W-Band and DeWalt Saw Tool & Cleaning Tool*   
 *Sindoh 3D Printer*   
