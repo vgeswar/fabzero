@@ -7,9 +7,9 @@
 
 
 
-## [*Inaugural Session*](/md-files/Inauguration.md)
+# [*Inaugural Session*](/md-files/Inauguration.md)
 
-## [*Fablab Tour*](/md-files/fablabvisit.md)
+# [*Fablab Tour*](/md-files/fablabvisit.md)
 
 **Shopbot Machine**
 
