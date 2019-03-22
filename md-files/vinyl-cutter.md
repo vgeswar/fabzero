@@ -13,3 +13,5 @@
 
 *The pixels may fixed at 600 dpi and the units are in mm. After completion of this work the image saved as .png format and export for the same.*
 
+*I have executed the above said process and the final output of the image is following:*
+![Vinyl Project](/img/vinyl-project.jpg)
