@@ -1,4 +1,5 @@
-My Three weeks atPre-fab Academy Training at STPI-Bhubaneswar Campus.
+My Three weeks at Pre-fab Academy Training at STPI-Bhubaneswar Campus.
+We are trained by two legends Sh.Fransisco and Sh.Sibu
 
 ## Day-1 Summary (Date: 18.03.2019)- 6.00PM
 
