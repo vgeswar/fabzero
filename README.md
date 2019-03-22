@@ -7,7 +7,8 @@
  ***Inaugural Session***  
  *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus. [*more...*](/md-files/Inauguration.md)*
 
- [*Fablab Tour*](/md-files/fablabvisit.md)
+ ***FABLAB Tour***
+ A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*more...*](/md-files/fablabvisit.md)
 
 **Shopbot Machine**
 
