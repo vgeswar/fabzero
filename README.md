@@ -10,6 +10,12 @@
  ***FABLAB Tour***   
  A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*more...*](/md-files/fablabvisit.md)
 
+ ***vinyl cutter***     
+ *This LAB equipped with "Roland CAMM-1 GS-24 vinyl cutter. The maximum area
+
+![Vinylcutter](vinyl-cutter.jpeg)      
+ It acts like plotter, draw images and act like stencil and screen printer. 
+
 **Shopbot Machine**
 
 ![Shopbot-Machine](shopbot.jpg)
@@ -25,11 +31,6 @@ This machine will work smoothly for more than ten years. If power goes off then 
 Micro milling machine whose resolution is 100th inches. The commonly used diameter is 0.4mm, 0.8mm up to 6mm. Fiber class is not to be used.
 
 We had a quick look at oscilloscope, power supply, functional generate, epilog laser. 
-
-**vinyl cutter**-   
-
-![Vinylcutter](vinyl-cutter.jpeg)      
- It acts like plotter, draw images and act like stencil and screen printer.  
 
 **Laser Cutter** 
 
