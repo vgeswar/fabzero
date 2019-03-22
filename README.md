@@ -2,7 +2,7 @@
 *We are trained by two legends Sh.Fransisco & Sh.Sibu*
              
 ***Introduction***     
-*This Program can foster a vibrant ecosystem for building a maker culture among startups, young entrepreneurs & enterprises for transforming ideas into superior products.* ## [*more...*](/md-files/Introduction.md)
+*This Program can foster a vibrant ecosystem for building a maker culture among startups, young entrepreneurs & enterprises for transforming ideas into superior products.*   [*more...*](/md-files/Introduction.md)
 
 
 
