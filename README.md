@@ -4,8 +4,6 @@ We are trained by two legends Sh.Fransisco & Sh.Sibu
 **About**     
 This Program can foster a vibrant ecosystem for building a maker culture among startups, young entrepreneurs & enterprises for transforming ideas into superior products.
 
-**Day-1**
-
 ## [Inaugural Session](/md-files/Inauguration.md)
 
 ## [Fablab Tour](/md-files/fablabvisit.md)
