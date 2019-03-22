@@ -1,10 +1,7 @@
 ***Fablab visit***  
 
-*Visited the Fablab and mentor Sh.Sibu explained the equipped equipments in the Fablab.*
-
-![LAB](/img/Tour1.jpg)
-![LAB](/img/Tour2.jpg)
-![LAB](/img/Tour3.jpg)
+*A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019.
+During this session, Sh.Shibu explained each and every equipments which is equipped in the Lab and we are interacted with Sh.shibu for the functionality of the all equipments.*
 
 *In this LAB equipped with following equipments:*   
 *Shopbot*   
@@ -14,4 +11,9 @@
 *Oscilloscope, Power Supply and Function Generator*   
 *DGShape SRM-20 Micro Milling Machine*   
 *Roland Vinyl Cutter*   
+
+*The snapshots of equipments are in below:*  
+![LAB](/img/Tour1.jpg)
+![LAB](/img/Tour2.jpg)
+![LAB](/img/Tour3.jpg)
 
