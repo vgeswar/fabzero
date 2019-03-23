@@ -2,16 +2,16 @@
 *We are trained by two legends Sh.Fransisco & Sh.Sibu*
              
 ***Introduction***     
-*A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes  [*more...*](/md-files/Introduction.md)*
+*A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes  [*Read more...*](/md-files/Introduction.md)*
 
  ***Inaugural Session***  
- *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus. [*more...*](/md-files/Inauguration.md)*
+ *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus. [*Read more...*](/md-files/Inauguration.md)*
 
  ***FABLAB Tour***   
- *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*more...*](/md-files/fablabvisit.md)*
+ *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*Read more...*](/md-files/fablabvisit.md)*
 
  ***Vinyl Cutter***     
- *This LAB equipped with "Roland CAMM-1 GS-24" vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*more...*](/md-files/vinyl-cutter.md)*
+ *This LAB equipped with "Roland CAMM-1 GS-24" vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*Read more...*](/md-files/vinyl-cutter.md)*
 
 **Shopbot Machine**
 
