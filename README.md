@@ -11,10 +11,10 @@
  [*Read more...*](/md-files/Inauguration.md)*
 
  ***FABLAB Tour***   
- *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*Read more...*](/md-files/fablabvisit.md)*
+ *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu explained each and every equipments which is equipped in the Lab and we are interacted with Sh.shibu, about the functionality of the all equipments [*Read more...*](/md-files/fablabvisit.md)*
 
  ***Vinyl Cutter***     
- *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*Read more...*](/md-files/vinyl-cutter.md)*
+ *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. It is a Desktop cutter.The maximum cutting width area for this machine is 22.9 inches. Using this machine we can cut your own designed logos, images and stickers [*Read more...*](/md-files/vinyl-cutter.md)*
 
 **Shopbot Machine**
 

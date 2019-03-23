@@ -1,9 +1,8 @@
 ***Vinyl Cutter***     
- *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. The maximum cutting area for this machine is width:22.9 inches.Maximum cutting media thickness is up to 0.4 inches.*
-![Vinylcutter](/img/vinylcutter.jpg)
+  *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. It is a Desktop cutter.The maximum cutting width area for this machine is 22.9 inches. Using this machine we can cut your own designed logos, images and stickers*
 
 ***Software and Installation***  
-*we are advised by Sh.Fransisco to install the #[**inkscape**](https://www.inkscape.org) software (2D ) which is used for vinyl cutter in order to make a nice stickers, logos and images.Hence, the inkscape software was installed.*  
+*we are advised by Sh.Fransisco to install the [**inkscape**](https://www.inkscape.org) software (2D ) which is used for vinyl cutter in order to make a nice stickers, logos and images.Hence, the inkscape software was installed.*  
 
 *After place the sticker roll in to the vinyl cutter, put the roller under the white lines on the machine.The origin point should be set in lower left side is used to utilize the maximum area of the sticker roll and the origin should be reset when make the new one.*  
 
