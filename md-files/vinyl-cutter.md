@@ -1,5 +1,5 @@
 ***Vinyl Cutter***     
- *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24" vinyl cutter. The maximum cutting area for this machine is width:22.9 inches.Maximum cutting media thickness is up to 0.4 inches.*
+ *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. The maximum cutting area for this machine is width:22.9 inches.Maximum cutting media thickness is up to 0.4 inches.*
 ![Vinylcutter](/img/vinylcutter.jpg)
 
 ***Software and Installation***  

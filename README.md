@@ -7,13 +7,13 @@
 *In this prefab academy we learned theoretically 3D-design operate the 3D printers and vinyl cutter.Similarly, we learned design the electronic circuit in PCB and operate the miller cutter.* 
 
  ***Inaugural Session***  
- *We had a formal launch of Pre-fab Academy Training at STPI-Bhubaneswar Campus.STPI- Bhubaneswar Director Sh.Manas Panda welcomed Director General-STPI and other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar started [*Read more...*](/md-files/Inauguration.md)*
+ *We had a formal launch of Pre-fab Academy Training at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/) Campus.Director Sh.Manas Panda welcomed Director General-[**STPI**](https://www.stpi.in/) and other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar started [*Read more...*](/md-files/Inauguration.md)*
 
  ***FABLAB Tour***   
  *A batch of participants are visited the FABLAB facilities on first day of training program i.e 18th of March’2019. During this session, Sh.Shibu [*Read more...*](/md-files/fablabvisit.md)*
 
  ***Vinyl Cutter***     
- *This LAB equipped with "Roland CAMM-1 GS-24" vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*Read more...*](/md-files/vinyl-cutter.md)*
+ *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. The maximum cutting area for this machine is width:22.9 inches and [*Read more...*](/md-files/vinyl-cutter.md)*
 
 **Shopbot Machine**
 
