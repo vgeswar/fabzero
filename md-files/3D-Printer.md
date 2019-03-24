@@ -6,6 +6,7 @@
 *We are using [Thinkverse](https://www.thingiverse.com/) site to download the object and used [3DWOX Desktop](https://3dprinter.sindoh.com/en/support/downloads) software for design the object. This software provided by the printer manufacture.*
 
 *I was selected the **Spinning-Top** object for my assignment. First, the said object image was downloaded and load to the 3DWOx software.
+
 ![Spinning-Top](/img/Spinning-top.jpg)*
 
 *In this assignment I had a great experience. i.e the spinning top has overhang region,hence support has required. Without support we didn't get the output as it is the image.The difference for the same as follow: ![spnnbase](/img/spt-base.jpg) My first trail was given to the printer without support.Hence, the printer given me the product like this ![prout-wout-base](/img/prout-without-base.jpg)After that I added the support in my image.*
