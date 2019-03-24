@@ -13,11 +13,12 @@
 
 *My first trail was given to the printer without support.Hence, the printer gave me the product like this ![prout-wout-base](/img/prout-without-base.jpg)* 
 
-*After that I added the support in my image.*
+*After that I added the support in my image.After completion of the above said process, the image loaded to the printer.Once loaded the image the same is shown in the printer's screen like this* 
+![spn-img](/img/Spn-img-prt.jpg) 
 
-*After completion of the above said process, the image loaded to the printer.Once loaded the image the same is shown in the printer's screen like this ![spn-img](/img/Spn-img-prt.jpg) After calculating the temperature, the printer will start to print.*
+*After calculating the temperature, the printer will start to print.*
 
-*Finally, my first product from the 3D printer was came out.![printout](/img/3D-output.jpg)
+*Finally, my first product from the 3D printer was came out.![printout](/img/3D-output.jpg)*
 
 
 
