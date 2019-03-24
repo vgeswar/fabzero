@@ -1,6 +1,8 @@
-*My Three weeks drive at Pre-Fab Academy Training Program at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/)  Campus.*  
-*We are trained by two legends Sh.Fransisco & Sh.Sibu*
-             
+*My Three weeks drive at Pre-Fab Academy Training Program at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/)  Campus.We are trained by two legends Sh.Fransisco & Sh.Sibu*
+
+***About Myself***
+*I am Ganapathieswaran, Engineering Graduate from Anna University, Coimbatore specializing in Electronics and Communication.Previously I did my Diploma (ECE) in SASTRA(Formerly Shanmuga College of Engineering & Polytechnic),Thanjavour.*
+           
 ***Introduction***     
 *A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes of your ideas.PreFab Academy is a 3 weeks training program to help us to get a hands on experience in the fab lab machines.*
 
