@@ -9,7 +9,8 @@
 
 ![Spinning-Top](/img/Spinning-top.jpg)*
 
-*In this assignment I had a great experience. i.e the spinning top has overhang region,hence support has required. Without support we didn't get the output as it is the image.The difference for the same as follow: ![spnnbase](/img/spt-base.jpg) My first trail was given to the printer without support.Hence, the printer given me the product like this ![prout-wout-base](/img/prout-without-base.jpg)After that I added the support in my image.*
+*In this assignment I had a great experience. i.e the spinning top has overhang region,hence support has required. Without support we didn't get the output as it is the image.The difference for the same as follow: ![spnnbase](/img/spt-base.jpg)* 
+*My first trail was given to the printer without support.Hence, the printer given me the product like this ![prout-wout-base](/img/prout-without-base.jpg)After that I added the support in my image.*
 
 *After completion of the above said process, the image loaded to the printer.Once loaded the image the same is shown in the printer's screen like this ![spn-img](/img/Spn-img-prt.jpg) After calculating the temperature, the printer will start to print.*
 
