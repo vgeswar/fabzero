@@ -12,5 +12,12 @@
 
 *The pixels may fixed at 600 dpi and the units are in mm. After completion of this work the image saved as .png format and export for the same.*
 
-*I have executed the above said process and the final output of the image is following:*
+*Next,open [**fabmodules.org**](http://fabmodules.org/) and import the desired file. Then, set the force as 80 and velocity as 20 and select the ***cut vinyl*** from the menu & click the calculate tab for select the path of the cutter. Finally, after the Completion of above said process the our file saved as .camm format * 
+*Now the files is ready to go to the vinyl cutter*
+
+*I had executed the above said process and the final output of the image is following:*
 ![Vinyl Project](/img/vinyl-project.jpg)
+
+
+
+
