@@ -1,4 +1,4 @@
-*My Three weeks drive at Pre-Fab Academy Training Program at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/)  Campus.We are trained by two legends Sh.Fransisco & Sh.Sibu*
+*My Three weeks drive in Pre-Fab Academy Training Program at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/)  Campus.We are trained by two legends Sh.Fransisco & Sh.Sibu*
 
 ***About Myself***  
 *I am Ganapathieswaran, Engineering Graduate from [**Anna University**](http://www.aurcc.ac.in/), Coimbatore specializing in Electronics and Communication.Previously I did my Diploma (ECE) in [**SASTRA**](https://www.sastra.edu/)(Formerly Shanmugha College of Engineering & Polytechnic),Thanjavur.*  
@@ -18,4 +18,9 @@
 
  ***Vinyl Cutter***     
  *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. It is a Desktop cutter.The maximum cutting width area for this machine is 22.9 inches. Using this machine we can cut your own designed logos, images and stickers [*Read more...*](/md-files/vinyl-cutter.md)*
+
+***3D Printer***  
+*In this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.* 
+![Sindoh-3D-Printer](/img/Sindoh-printer.jpg)
+This device 
 
