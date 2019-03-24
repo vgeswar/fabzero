@@ -23,6 +23,7 @@ ________________________________________________________________________________
  ***Vinyl Cutter*** 
  --------------------------------------------------------------------------------------------------------- 
  *This LAB equipped with [**Roland**](https://www.rolanddga.com/products/vinyl-cutters/camm-1-gs-24-desktop-vinyl-cutter) CAMM-1 GS-24 vinyl cutter. It is a Desktop cutter.The maximum cutting width area for this machine is 22.9 inches. Using this machine we can cut your own designed logos, images and stickers [*Read more...*](/md-files/vinyl-cutter.md)*
+ ---------------------------------------------------------------------------------------------------------
 
 ***3D Printer***  
 -----------------------------------------------------------------------------------------------------------
