@@ -9,7 +9,7 @@ ________________________________________________________________________________
 ---------------------------------------------------------------------------------------------------------- 
 *A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help us to get a prototypes of your ideas.This PreFab Academy session is a 3 weeks training program to help us to get a hands on experience in the fab lab machines.*
 
-*In this prefab academy we learned theoretically 3D-design operate the 3D printers and vinyl cutter.Similarly, we learned design the electronic circuit in PCB and operate the miller cutter.* 
+*In this prefab academy we learned theoretically 3D-design, operate the 3D printers and vinyl cutter.Similarly, we learned design the electronic circuit in PCB and operate the miller cutter.* 
 
  ***Inaugural Session*** 
  --------------------------------------------------------------------------------------------------------- 
@@ -29,5 +29,10 @@ ________________________________________________________________________________
 *In this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.* 
 ![Sindoh-3D-Printer](/img/Sindoh-printer.jpg)
 [*Read More...*](/md-files/3D-Printer.md)
+
+***PCB Design & Miller Cutter***
+-----------------------------------------------------------------------------------------------------------
+*Design the Schematic circuit and draw the PCB layout was performed by KiCAD software and we used the DGSHAPE SRM20 model miller cutter machine for mill PCB board.The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.*[Read More...](/md-files/pcb-design.md)
+
 
 
