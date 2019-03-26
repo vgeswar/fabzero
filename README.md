@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 ***PCB Design & Miller Cutter***
 -----------------------------------------------------------------------------------------------------------
-*Design the Schematic circuit and draw the PCB layout was performed by KiCAD software and we used the DGSHAPE SRM20 model miller cutter machine for mill PCB board.The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.*[Read More...](/md-files/pcb-design.md)
+*Design the Schematic circuit and draw the PCB layout was performed by KiCAD software and we used the DGSHAPE SRM20 model miller cutter machine for mill PCB board.The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.*[Read More...]
 
 
 
