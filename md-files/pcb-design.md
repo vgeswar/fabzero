@@ -48,5 +48,6 @@ The SRM-20’s VPanel controller provides a simple interface for adjusting tool 
 
 ![finalpcb](/img/pcb2.jpg)
 
-- *Then collect the necessary components according to out circuit and soldering in to the PCB.*
+- *Then collect the necessary components according to our circuit and soldering in to the PCB.*
+
 ![solderingpcb](/img/solderingpcb.jpg)
