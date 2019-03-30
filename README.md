@@ -34,5 +34,10 @@ ________________________________________________________________________________
 -----------------------------------------------------------------------------------------------------------
 *Design the Schematic circuit and draw the PCB layout was performed by KiCAD software and we used the DGSHAPE SRM20 model miller cutter machine for mill PCB board.The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.*[Read More...]
 
+***Shopbot Machine***
+-----------------------------------------------------------------------------------------------------------
+*[Shopbot](https://support.shopbottools.com/products/alpha) alpha machine is a most sophisticated, gantry-based CNC routers. It is a biggest and almost dangerous machine in our lab.Safety is very important when using this machine .Always it is recommended to have one more person while working with this machine.[*Read More...](/md-files/shopbot-machine.md)*
+
+
 
 
