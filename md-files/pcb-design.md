@@ -41,6 +41,12 @@ The SRM-20’s VPanel controller provides a simple interface for adjusting tool 
 - *Once the milling of trace is completed, the bit to be changed in 1/32 for cut the PCB.*
 - *After replace the bit, change the Z axis as zero and similar to the tracing setup make X,Y axis to the previous setup starting point.*
 - *Then, load the cut file as the .rml format and proceed to cut the PCB.* 
-- *After completion of above process remove the printed PCB carefully.*
+
 ![pcb](/img/pcb1.jpg)
+
+- *After completion of above process remove the printed PCB carefully.*
+
 ![finalpcb](/img/pcb2.jpg)
+
+- *Then collect the necessary components according to out circuit and soldering in to the PCB.*
+![solderingpcb](/img/solderingpcb.jpg)
