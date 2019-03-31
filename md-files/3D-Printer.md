@@ -1,7 +1,9 @@
 ***3D Printer***  
-*In this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.* 
-![Sindoh-3D-Printer](/img/Sindoh-printer.jpg)
-*The Poly-Lactic Acid(PLA) has been used as filament in this printer.The filament is 1.75mm in diameter and a cartridge can hold 700 gram of filament.The filament should be tightly wound in to the cartridge. To feed the cartridge in the printer, use the **Load** command through the touch screen in top of the printer.similar way to remove the cartridge use the **Unload** command.Printer nozzle will be heated up to 200 degree C for printing the object*
+*3D printing is any of various process of making three dimensional solid objects from a digital file. 3D printing enables you to produce complex shapes.The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object.*
+
+ *In this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.The DP200 printer was designed to introduce inexperienced users to 3D printing technologyIn this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.The Poly-Lactic Acid(PLA) has been used as filament in this printer.The filament is 1.75mm in diameter and a cartridge can hold 700 gram of filament.The filament should be tightly wound in to the cartridge. To feed the cartridge in the printer, use the **Load** command through the touch screen in top of the printer.similar way to remove the cartridge use the **Unload** command.Printer nozzle will be heated up to 200 degree C for printing the object*
+
+![Sindoh-3D-Printer](/img/Sindoh-printer.jpg)  
 
 *We are using [Thinkverse](https://www.thingiverse.com/) site to download the object and used [3DWOX Desktop](https://3dprinter.sindoh.com/en/support/downloads) software for design the object. This software provided by the printer manufacture.*
 
