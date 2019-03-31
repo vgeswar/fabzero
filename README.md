@@ -29,6 +29,10 @@ ________________________________________________________________________________
 *3D printing is any of various process of making three dimensional solid objects from a digital file. 3D printing enables you to produce complex shapes.The creation of a 3D printed object is achieved using additive processes. In an additive process an object is created by laying down successive layers of material until the object is created. Each of these layers can be seen as a thinly sliced horizontal cross-section of the eventual object. In this session we worked with [**Sindoh**](https://3dprinter.sindoh.com/product/dp200) 3DWAX DP200 model 3D printer.The DP200 printer was designed to introduce inexperienced users to 3D printing technology* 
 [*Read More...*](/md-files/3D-Printer.md)
 
+***3D Design & Printing***
+------------------------------------------------
+*Our mentor instructed to us design something useful for our lab. So my batch consists of three members decided to design the Bit-Stand for holding the pcb milling bits. In this process we are using Freecad software for perform the 3D design. FreeCAD is a popular open source design software for creating 3D models of real-life objects.* [*Read More...*](/md-files/3D-design.md)
+
 ***PCB Design & Miller Cutter***
 -----------------------------------------------------------------------------------------------------------
 *Design the Schematic circuit and draw the PCB layout was performed by KiCAD software and we used the DGSHAPE SRM20 model miller cutter machine for mill PCB board.The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.*[*Read More...*](/md-files/pcb-design.md)

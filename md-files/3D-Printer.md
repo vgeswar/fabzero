@@ -7,7 +7,7 @@
 
 *We are using [Thinkverse](https://www.thingiverse.com/) site to download the object and used [3DWOX Desktop](https://3dprinter.sindoh.com/en/support/downloads) software for design the object. This software provided by the printer manufacture.*
 
-*I was selected the **Spinning-Top** object for my assignment. First, the said object image was downloaded and load to the 3DWOx software.
+*I was selected the **Spinning-Top** object for my assignment. First, the said object image was downloaded and load to the 3DWOx software.*
 
 ![Spinning-Top](/img/Spinning-top.jpg)
 
