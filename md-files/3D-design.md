@@ -1,8 +1,9 @@
 ***3D Design & Printing***  
 
 *Our mentor instructed to us design something useful for our lab. So my batch consists of three members decided to design the Bit-Stand for holding the pcb milling bits. In this process we are using [**FreeCAD**](https://www.freecadweb.org/) software for perform the 3D design. FreeCAD is a popular open source design software for creating 3D models of real-life objects.* 
-- *3D design will be performed by the FreeCAD software*
-- *Open FreeCAD and create a new empty document and select part option from the "software between workbenches" option.*
+
+*The procedure of our assignment is following:*  
+- *Open FreeCAD and create a new empty document and select part option from the "**software between workbenches**" option.*
 - *Pick a cube set and set the dimension of Lenth-40mm, Width-28.5mm and Hight-10mm.This is the base for the Stand.*
 - *Copy and paste another cube as the dimensions of Lenth-40mm, width-13.5mm and Height-15mm and move it to center of the base in X,Y and move on the top of the base cube through Z axis.*
 - *Select the top cube's edges and opted the fillet button and applied the fillet and repeat the same for another cube also.*
