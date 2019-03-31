@@ -2,9 +2,11 @@
 *Design the Schematic circuit and draw the PCB layout was performed by [**KiCAD**](http://kicad-pcb.org/) software and we used the [**DGSHAPE**](https://www.dgshape.com/product/srm-20) SRM20 model miller cutter machine for milling the PCB board.*
 
 *The SRM-20’s VPanel controller provides a simple interface for adjusting tool position and moving the cursor to set the milling starting point. The VPanel also allows easy control of feed rate and spindle speed with pause and resume operation, plus tracking of X, Y, Z axis milling with a numeric readout in millimeters or inches.* 
- 
+
 *This machine has 2 milling bit. One as tracebit for tracing the circuit in board (i.e 1/64) and another one as cut bit for cut the board(i.e 1/32)* 
+
 ![SRM20](/img/srm20.jpg)    
+
 **Procedure for design the circuit:**  
 - *Open KiCAD software and load new project*  
 - *Select Schematic layout, then Eeschma will be open*  
