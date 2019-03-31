@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ***3D Design & Printing***
 ------------------------------------------------
-*Our mentor instructed to us design something useful for our lab. So my batch consists of three members decided to design the Bit-Stand for holding the pcb milling bits. In this process we are using Freecad software for perform the 3D design. FreeCAD is a popular open source design software for creating 3D models of real-life objects.* [*Read More...*](/md-files/3D-design.md)
+*Our mentor instructed to us design something useful for our lab. So my batch consists of three members decided to design the Bit-Stand for holding the pcb milling bits. In this process we are using [**FreeCAD**](https://www.freecadweb.org/) software for perform the 3D design. FreeCAD is a popular open source design software for creating 3D models of real-life objects.* [*Read More...*](/md-files/3D-design.md)
 
 ***PCB Design & Miller Cutter***
 -----------------------------------------------------------------------------------------------------------
