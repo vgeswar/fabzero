@@ -17,7 +17,7 @@ ________________________________________________________________________________
 --------------------------------------------------------------------------------------------------------------
 - [***Fabzero Documents***](/md-files/fabzero-docs.md)
 - ***Fabzero Project***
-- ***List of Software we Learned***
+- [***List of Software we Learned***](/md-files/softwares.md)
 - ***List of Machines we Trained***
 
 
