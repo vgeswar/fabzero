@@ -1,6 +1,6 @@
 ***Laser Cutter*** 
 
-*In this lab we have Epilog-Fusion M2 Lacer cutter.The Fusion M2 is a dual-source laser system that allows users to perform both metal marking applications and CO2 laser applications from the same system, in the same job.*
+*In this lab we have Epilog-Fusion M2 Laser cutter.The Fusion M2 is a dual-source laser system that allows users to perform both metal marking applications and CO2 laser applications from the same system, in the same job.*
 
 ![laser](/img/laserm2.jpg)
 
