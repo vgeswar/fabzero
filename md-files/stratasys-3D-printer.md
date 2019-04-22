@@ -6,6 +6,7 @@
 
 - *This printer is a 3D Polyjet Printer*
 - *The prime material is Polypropylene*
+- *Support material is Wax*
 - *The printing layer is 28microns*
 
 ***Software - Opject Studio***      
