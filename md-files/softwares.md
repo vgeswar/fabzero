@@ -13,8 +13,8 @@
 ***PCB Design***
 -  [***KiCAD***](http://kicad-pcb.org/)
 
-*Also we used following website as a tool:*
-- [***fabmodules.org***]
-- [***thinkverse.com***]
+***Also we used following website as a tool:***
+- [***fabmodules.org***](http://fabmodules.org/)
+- [***thinkverse.com***](https://www.thingiverse.com/)
 
 
