@@ -5,7 +5,6 @@
 ![laser](/img/laserm2.jpg)
 
 *The Fusion M2 32 allows users to select a 50, 60, 75, or 120-watt CO2 laser and match it with a 20, 30 or 50-watt fiber laser.*
-
 *The Fusion M2 laser cutter provide the best of image quality, speed, reliability, and ease of use.*
 
 ![lasercutter](/img/laser-cutter.jpeg)
