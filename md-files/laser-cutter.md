@@ -1,5 +1,21 @@
-**Laser Cutter** 
+***Laser Cutter*** 
 
-![Laser Cutter](laser-cutter.jpeg)  
+*In this lab we have Epilog-Fusion M2 Lacer cutter.The Fusion M2 is a dual-source laser system that allows users to perform both metal marking applications and CO2 laser applications from the same system, in the same job.*
 
-lacer cutter engraving, 3D structures. 80W Co2 laser, 10.2 micro meter. In this machine we can't to use metal. Because it produce the smoke. We had a brief look at Air filter which sucks dust particles but gases will remain. Don't open immediately after using laser cutter. Don't cut anything very thin like paper and glass cutting is not permitted but engraving is permitted.
+![laser](/img/laserm2.jpg)
+
+*The Fusion M2 32 allows users to select a 50, 60, 75, or 120-watt CO2 laser and match it with a 20, 30 or 50-watt fiber laser.*
+
+*The Fusion M2 laser cutter provide the best of image quality, speed, reliability, and ease of use.*
+
+![lasercutter](/img/laser-cutter.jpeg)
+
+
+
+
+ 
+
+
+
+
+
