@@ -1,5 +1,5 @@
 ***The following softwares were using during the training period:***
-------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
 ***3D Design***
 - [***FreeCAD***](https://www.freecadweb.org/)
@@ -14,7 +14,7 @@
 -  [***KiCAD***](http://kicad-pcb.org/)
 
 *Also we used following website as a tool:*
-- ***fabmodules.org***
-- ***thinkverse.com***
+- [***fabmodules.org***]
+- [***thinkverse.com***]
 
 
