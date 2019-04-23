@@ -28,7 +28,7 @@
 - *Mosfet: 1 No.*
 
 ![pcbsoldering](/img/p8.jpg)  
-![pcbsoldering](/img/p9.jpg)
+![pcbsoldering](/img/p9.jpeg)
 
 
 
