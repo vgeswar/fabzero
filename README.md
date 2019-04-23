@@ -24,5 +24,6 @@ ________________________________________________________________________________
 - ***Fabzero Project***
 - [***List of Software we Learned***](/md-files/softwares.md)
 - [***List of Machines we Trained***](/md-files/machines.md)
+- [***Fabzero Project Video***](/img/Final-Video.mp4)
 
 
