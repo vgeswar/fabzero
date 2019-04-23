@@ -51,6 +51,24 @@ Now we have packed all the iBELL components inside the 3D case…*
 
 ![namesticker](/img/p14.jpg)
 
+***Future Enhancement:***   
+*iBELL has vast scope for future enhancement.
+Intelligence can be fed to iBELL in the form of uploading program one by one on case basis, so as to behave more intelligently with added features/functionalities.*  
+- *Case 1, if switch is pressed and held for more time, iBELL goes to freezing mode (inactive mode) and after sometime automatically turns to active mode.*
+- *Case 2, if switch is pressed on and off frequently within the particular time interval, again it goes to freezing mode and turns to active mode after some time.*   
+- *Case 1 & 2 events happen when a known person is trying to fool us. In this circumstance, iBELL acts intelligently by going to inactive mode temporarily.*   
+- *Case 3, iBELL can be enhanced to work like an Access Control system. List of known users face images and finger prints can be saved in the database. A camera and finger print capturing devices can be attached to iBELL. When any person presses the switch, immediately it matches the face and finger prints with the stored database and based on the access permissions it automatically signals the access door to lock or unlock. This feature will be very helpful for persons living in the same family (children/husband/wife/father/mother/sister/brother). They need not wait for the family person to wake up and come to open the door.*   
+- *Case 4, Even we can program iBELL to sound the names of the person standing behind the door.*   
+- *Case 5, In sensitive areas (Border areas, LoC) iBELL can be attached to the CCTV camera, so that it alarms loudly and sends MMS messages / videos automatically to the control room, if anyone tries to enter with unauthorized / heavy weapons /materials.*   
+
+*Like this we can keep on loading iBELL with updated programs for latest features and requirements.*
+
+
+![tankyou](/img/tq.jpg)
+
+
+
+
 
 
 
