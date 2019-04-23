@@ -12,6 +12,12 @@ ________________________________________________________________________________
 *In this prefab academy we learned and trained in 3D-design softwares, operate & handle the various type of 3D printers and vinyl cutter.Similarly, we learned design the electronic circuit in PCB and operate the milling machine.Also we learned about laser cutter, shobot machine*
 
 *Finally I was make a Interesting project (iBELL) by using the above said softwares and machines.*
+
+ ***Inaugural Session*** 
+ --------------------------------------------------------------------------------------------------------- 
+ *We had a formal launch of Pre-fab Academy Training at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/) Campus.Director Sh.Manas Panda welcomed Director General-[**STPI**](https://www.stpi.in/) and other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar started 
+ [*Read more...*](/md-files/Inauguration.md)*
+
  
 ***Index***
 --------------------------------------------------------------------------------------------------------------
