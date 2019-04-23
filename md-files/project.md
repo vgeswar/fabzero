@@ -16,5 +16,19 @@
 ![milling](/img/p6.jpg)   
 ![pcb](/img/p7.jpg)
 
+***List of Components used:***  
+- *Resistors--500 ohms: 4 Nos.*  
+- *Resistors--10 ohms: 2 Nos.*  
+- *LED : Green & Blue -Each 1 No*   
+- *Micro Controller -- ATtiny 44: 1 No.*   
+- *Capacitor-- 1 Micro Farad : 1 No.*      
+- *Switch: 1 No.*   
+- *ISP Header: 1 No.*  
+- *Speaker: 1 No.*    
+- *Mosfet: 1 No.*
+
+![pcbsoldering](/img/p8.jpg)  
+![pcbsoldering](/img/p9.jpg)
+
 
 
