@@ -15,8 +15,7 @@ ________________________________________________________________________________
 
  ***Inaugural Session*** 
  --------------------------------------------------------------------------------------------------------- 
- *We had a formal launch of Pre-fab Academy Training at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/) Campus.Director Sh.Manas Panda welcomed Director General-[**STPI**](https://www.stpi.in/) and other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar started 
- [*Read more...*](/md-files/Inauguration.md)*
+ *We had a formal launch of Pre-fab Academy Training at [**STPI- Bhubaneswar**](http://www.bbs.stpi.in/) Campus.Director Sh.Manas Panda welcomed Director General-[**STPI**](https://www.stpi.in/) and other colleagues. He briefed us on how the idea of having PreFab lab at Bhuvaneshwar was started. Then,the training program was launched by STPI-Director General. The mentor Sh.Francisco and gave a brief speech on the sessions and brief introduction on the lab and the purpose of the lab was discussed.[*Read more...*](/md-files/Inauguration.md)*
 
  
 ***Index***
