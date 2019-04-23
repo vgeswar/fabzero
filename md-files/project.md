@@ -16,6 +16,9 @@
 ![milling](/img/p6.jpg)   
 ![pcb](/img/p7.jpg)
 
+***Implementation:***   
+*Now, the components are soldered as per the PCB design on the circuit board. We have arrived at two circuit boards, one is the micro controller circuit and another one  is the MOSFET connected to the speaker. We have also used additional 2 nos.of 50ohm resistors connected in parallel to suppress the generated heat. Oscilloscope was used to verify the working functionality of the speaker.*
+
 ***List of Components used:***  
 - *Resistors--500 ohms: 4 Nos.*  
 - *Resistors--10 ohms: 2 Nos.*  
@@ -28,7 +31,31 @@
 - *Mosfet: 1 No.*
 
 ![pcbsoldering](/img/p8.jpg)  
-![pcbsoldering](/img/p9.jpeg)
+![pcbsoldering](/img/p9.jpeg)   
+![pcbtesting](/img/p10.jpg)
+
+***Coding:***   
+*AVR program was written as per our requirement. Through the programmer, using Arduino, we have compiled and successfully loaded the AVR code in to the micro controller to work intelligently as per our requirements.*
+
+![coding](/img/p11.png)   
+![coding](/img/p12.png) 
+
+***3D Design for iBELL Outer Case:***   
+*The 3d iBELL outer Case was designed using freecad sogtware and the same was  loaded in to 3D printer. After 28 minutes, we are ready with the outer Casing for iBELL.
+Now we have packed all the iBELL components inside the 3D case…*
+
+![case](/img/p13.jpg)
+
+***Vinyl Name sticker for iBELL:***   
+*iBELL name sticker was designed using the inscape and cut it through the Vinyl cutter. We got a beautiful name sticker, which was stuck at both sides of the iBELL case.*
+
+![namesticker](/img/p14.jpg)
+
+
+
+
+
+
 
 
 
