@@ -41,7 +41,7 @@
 ![coding](/img/p12.png) 
 
 ***3D Design for iBELL Outer Case:***   
-*The 3d iBELL outer Case was designed using freecad sogtware and the same was  loaded in to 3D printer. After 28 minutes, we are ready with the outer Casing for iBELL.
+*The 3d iBELL outer Case was designed using freecad software and the same was  loaded in to 3D printer. After 28 minutes, we are ready with the outer Casing for iBELL.
 Now we have packed all the iBELL components inside the 3D case…*
 
 ![case](/img/p13.jpg)
