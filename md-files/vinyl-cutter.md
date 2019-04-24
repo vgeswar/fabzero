@@ -18,6 +18,9 @@
 *I had executed the above said process and the final output of the image is following:*
 ![Vinyl Project](/img/vinyl-project.jpg)
 
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
 
 
 
