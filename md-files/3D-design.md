@@ -20,3 +20,7 @@
 - *Now click layer viewer option to check the layered view and verify the support is requirements. If support is required provide the same from setting options.*
 - *Now give print to the Sindow if connected.Else save it as .Gcode format in USP and give print the file by the connecting USB in the printer.*
 
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
+
