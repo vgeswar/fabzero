@@ -7,7 +7,11 @@ ________________________________________________________________________________
            
 ***Introduction*** 
 ---------------------------------------------------------------------------------------------------------- 
-*A Fab Lab (Fabrication Laboratory)  is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes of your ideas.Our PreFab Academy is a 3 weeks training program to help us to get a hands on experience in the fab lab machines.* 
+*A Fab Lab is a small workshop offering personal digital fabrication.The fab labs are equipped with an array of CNC(Computer Controlled Machines) that help you to get a prototypes of your ideas.*
+
+*The objective of Fablabs is to encourage the innovation, technology development, product prototyping and maker learning. This will empower the maker-entrepreneurial culture, which at present is confined to ICT/ electronics domain. The Fablab programme will lead to a cross learning culture among multiple technology sectors and create a robust platform for the upcoming entrepreneurs to create indigenous technology products.*  
+
+*Our PreFab Academy is a 3 weeks training program to help us to get a hands on experience in the fab lab machines.* 
 
 *In this prefab academy we learned and trained in 3D-design softwares, operate & handle the various type of 3D printers and vinyl cutter.Similarly, we learned design the electronic circuit in PCB and operate the milling machine.Also we learned about laser cutter, shobot machine*
 
