@@ -8,3 +8,7 @@
 *The Fusion M2 laser cutter provide the best of image quality, speed, reliability, and ease of use.*
 
 ![lasercutter](/img/laser-cutter.jpeg)
+
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
