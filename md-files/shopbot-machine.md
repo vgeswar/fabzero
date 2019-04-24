@@ -12,3 +12,7 @@
 - *This machine has two power sources. One from control board and another from spindle.*
 - *Similarly this machine has two emergency hit buttons which is use to stop the machine for the emergency situation.*
 
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
+
