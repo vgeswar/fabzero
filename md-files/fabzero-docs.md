@@ -22,7 +22,7 @@
 
 ***Shopbot Machine***
 -----------------------------------------------------------------------------------------------------------
-*[Shopbot](https://support.shopbottools.com/products/alpha) alpha machine is a most sophisticated, gantry-based CNC routers. It is a biggest and almost dangerous machine in our lab.Safety is very important when using this machine .Always it is recommended to have one more person while working with this machine.*[*Read More...*](/md-files/shopbot-machine.md)
+*[Shopbot](https://support.shopbottools.com/products/alpha) is a CNC solution for production that delivers high performance, high volume, speed and reliable power for all cutting tasks. This CNC delivers affordable, full-production performance in digital fabrication of wood, plastic and other materials. It is a biggest and almost dangerous machine in our lab.Safety is very important when using this machine.*[*Read More...*](/md-files/shopbot-machine.md)
 
 ***Stratasys 3D Printer***
 -----------------------------------------------------------------------------------------------------------
