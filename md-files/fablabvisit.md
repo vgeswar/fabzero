@@ -17,5 +17,7 @@ During this session, Sh.Shibu explained each and every equipments which is equip
 ![LAB](/img/Tour2.jpg)
 ![LAB](/img/Tour3.jpg)
 
-[***Back***](/md-files/fabzero-docs.md)                                            [***Home***](/README.md)
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
 
