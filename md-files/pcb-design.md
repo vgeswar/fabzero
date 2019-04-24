@@ -55,3 +55,7 @@
 - *Then collect the necessary components according to our circuit and soldering in to the PCB.*
 
 ![solderingpcb](/img/solderingpcb.jpg)
+
+[***Back***](/md-files/fabzero-docs.md)  
+
+[***Home***](/README.md)
