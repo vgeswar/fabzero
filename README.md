@@ -30,7 +30,10 @@ ________________________________________________________________________________
 - [***List of Machines we Trained***](/md-files/machines.md)
 - [***Fabzero Project Video***](/img/Final-Video.mp4)
 
+***Feedback and Comments***
+------------------------------------------------------------------------------------------------------------------
 
+*Writ your comments and feedback to vgeswar@gmail.com*
 
 
 
