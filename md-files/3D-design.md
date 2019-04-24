@@ -28,6 +28,12 @@ To design a 3D model for holding the Micromiller bits. We designed a small block
 - *Now click layer viewer option to check the layered view and verify the support is requirements. If support is required provide the same from setting options.*
 - *Now give print to the Sindow if connected.Else save it as .Gcode format in USP and give print the file by the connecting USB in the printer.*
 
+*The final output of the product is given below:*
+
+![Bitstand](/img/bitholder1.jpg)
+
+![Bitstand](/img/bitholder2.jpg)
+
 [***Back***](/md-files/fabzero-docs.md)  
 
 [***Home***](/README.md)
