@@ -30,9 +30,9 @@ To design a 3D model for holding the Micromiller bits. We designed a small block
 
 *The final output of the product is given below:*
 
-![Bitstand](/img/bitholder1.jpg)
+![Bitstand](/img/bitholder1.jpeg)
 
-![Bitstand](/img/bitholder2.jpg)
+![Bitstand](/img/bitholder2.jpeg)
 
 [***Back***](/md-files/fabzero-docs.md)  
 
