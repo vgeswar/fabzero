@@ -30,7 +30,6 @@ ________________________________________________________________________________
 - [***List of Machines we Trained***](/md-files/machines.md)
 - [***Fabzero Project Video***](/img/Final-Video.mp4)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UE5MAJBMxf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
