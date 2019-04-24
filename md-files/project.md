@@ -66,6 +66,8 @@ Intelligence can be fed to iBELL in the form of uploading program one by one on 
 
 ![tankyou](/img/tq.jpg)
 
+[***Home***](/README.md)
+
 
 
 
