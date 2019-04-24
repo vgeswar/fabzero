@@ -3,7 +3,7 @@ ________________________________________________________________________________
 ***About Myself*** 
 -----------------------------------------------------------------------------------------------------------
 *I am Ganapathieswaran, Engineering Graduate from [**Anna University**](http://www.aurcc.ac.in/), Coimbatore specializing in Electronics and Communication.Previously I did my Diploma (ECE) in [**SASTRA**](https://www.sastra.edu/)(Formerly Shanmugha College of Engineering & Polytechnic),Thanjavur,Tamilnadu*  
-*I am working in [**Software Technology Parks of India**](https://www.chennai.stpi.in)(STPI), Chennai Directorate in Madurai.*
+*I am working in [***Software Technology Parks of India(STPI), Chennai***](https://www.chennai.stpi.in) Directorate in Madurai.*
            
 ***Introduction*** 
 ---------------------------------------------------------------------------------------------------------- 
