@@ -2,6 +2,11 @@
 
 *Our mentor instructed to us design something useful for our lab. So my batch consists of three members decided to design the Bit-Stand for holding the pcb milling bits. In this process we are using [**FreeCAD**](https://www.freecadweb.org/) software for perform the 3D design. FreeCAD is a popular open source design software for creating 3D models of real-life objects.* 
 
+***Scope of Work***   
+To design a 3D model for holding the Micromiller bits. We designed a small block( Length: 30mm; Width: 50mm; Height:25mm) containing 5 cylindrical cut of radius 2mm  that can properly accommodate 5 Micromiller bits
+
+![Bitstand](/img/3D-design.jpg)
+
 *The procedure of our assignment is following:*  
 - *Open FreeCAD and create a new empty document and select part option from the "**software between workbenches**" option.*
 - *Pick a cube set and set the dimension of Lenth-40mm, Width-28.5mm and Hight-10mm.This is the base for the Stand.*
